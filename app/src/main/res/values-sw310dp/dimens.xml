@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-
+<string name="base_dpi">310dp</string>
 <dimen name="qb_px_0">0.00dp</dimen>
 <dimen name="qb_px_1">0.83dp</dimen>
 <dimen name="qb_px_2">1.65dp</dimen>
